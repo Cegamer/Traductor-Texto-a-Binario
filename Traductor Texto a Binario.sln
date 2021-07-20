@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31410.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Traductor Texto a Binario", "Traductor Texto a Binario.csproj", "{7A395495-7889-498D-84A9-741DF3C9840A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7A395495-7889-498D-84A9-741DF3C9840A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7A395495-7889-498D-84A9-741DF3C9840A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7A395495-7889-498D-84A9-741DF3C9840A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7A395495-7889-498D-84A9-741DF3C9840A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {29550BC6-0DF5-4E67-8947-586B2A874FAA}
+	EndGlobalSection
+EndGlobal
